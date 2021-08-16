@@ -3,7 +3,7 @@
 
 As operações utilizadas são saque, depósito, transferência e consulta de saldo, conforme se vê na imagem a seguir.
 
-![Imagem do diagrama UML](packageContaBancariaExemplo/uml_conta_banco.png)
+![uml_conta_banco](https://user-images.githubusercontent.com/72031181/129639874-09410cb8-56f5-48f9-b3cc-088865b7b6eb.png)
 
 Nas operações de saque e de transferência, as quais retiram dinheiro da conta do usuário só são autorizadas após a validação de senha, digitada pelo usuário.
 
